@@ -538,5 +538,80 @@ const fontMaps = [
 },
 ];
  
-var _0xc98e=["","split","0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ+/","slice","indexOf","","",".","pow","reduce","reverse","0"];function _0xe98c(d,e,f){var g=_0xc98e[2][_0xc98e[1]](_0xc98e[0]);var h=g[_0xc98e[3]](0,e);var i=g[_0xc98e[3]](0,f);var j=d[_0xc98e[1]](_0xc98e[0])[_0xc98e[10]]()[_0xc98e[9]](function(a,b,c){if(h[_0xc98e[4]](b)!==-1)return a+=h[_0xc98e[4]](b)*(Math[_0xc98e[8]](e,c))},0);var k=_0xc98e[0];while(j>0){k=i[j%f]+k;j=(j-(j%f))/f}return k||_0xc98e[11]}eval(function(h,u,n,t,e,r){r="";for(var i=0,len=h.length;i<len;i++){var s="";while(h[i]!==n[e]){s+=h[i];i++}for(var j=0;j<n.length;j++)s=s.replace(new RegExp(n[j],"g"),j);r+=String.fromCharCode(_0xe98c(s,e,10)-t)}return decodeURIComponent(escape(r))}("VXPiXrViXrXiXPriXRXiXrHiXPRiVRriXPRirHHiXrriXrXiXRHiXRPiXRViVXPiPPViVXPirHXiVXPiXPXiXrXiXrPiXXHiXXXiXXViPVriVXPirHXiVXPiXrPiXPViXrViXPRiPVriVXPiVrXiXXHiXrXiXrPiXRPiVrXiVRPiVXPiXRriXPRiXRHiXRViXXXiXrXiXrPiPVriVXPiVrXiPHViVRriPHHiVrXiVRPiVXPiXPViXRXiXRPiXXPiXrXiXRHiPVriVXPiVrXiPRRiPrXiVRXiPRRiPrViPXPiPXPiPrViPrXiVRXiPrXiPrHiPPRiPRHiVrXiVRPiVXPiXPXiXrXiXRXiXrPiXRPiPXPiXrXiXRRiXrPiPVriVXPiPHHiVRPiVXPiXRHiXrXiXrHiXPRiPVriVXPiPHHiVRPiVXPiXRViXXPiXrXiXRHiXRPiPXPiXPRiXRViXPXiXRHiXXXiXrriXRPiXXXiXrXiXrPiPVriVXPiVrXiPXViXrXiXrPiXRriXPRiXRHiXRPiVXPiXRPiXPRirHHiXRPiVXPiXRPiXrXiVXPiXPriXXXiXXHiXXHiXPRiXRHiXPRiXrPiXRPiVXPiXXHiXrXiXrPiXRPiXRViVrXiVRPiVXPiXrHiXrXiXrPiXXViPXPiXPRiXRViXPXiXRHiXXXiXrriXRPiXXXiXrXiXrPiPVriVXPiVrXiPXViXXPiXrXiXrXiXRViXPRiVXPiXXHiXRHiXrXiXrViVXPiXRriXPViXRHiXXXiXrXiXRXiXRViVXPiXXHiXrXiXrPiXRPiVXPiXRViXRPirHViXrHiXPRiXRViVXPiXrHiXXXiXXRiXPRiVXPiXPPiXrXiXrHiXPriVRPiVXPiXXXiXRPiXPViXrHiXXXiXPXiVRPiVXPiXPXiXRXiXRHiXRViXXXiXRriXPRiVRPiVXPiXPRiXRPiXPXiVRriVXPiXPViXrPiXPriVXPiXRPiXRHiXPViXrPiXRViXXHiXrXiXRHiXrViVXPirHViXrXiXRXiXRHiVXPiXRPiXPRirHHiXRPiVXPiXXXiXrPiXRPiXrXiVXPiXPViVXPiXRXiXrPiXXXiXrRiXRXiXPRiVXPiXRriXXXiXRViXRXiXPViXrHiVXPiXXHiXrXiXRHiXrViXPViXRPiVRriVrXiVRPiVXPiXPXiXPViXRPiXPRiXXViXrXiXRHirHViPVriVXPiVrXiXXHiXrXiXrPiXRPiVrXiVRPiVXPiXXViXRXiXXXiXPriXPRiPVriVXPiVrXiVRXiXXHiXrXiXrPiXRPiVXPiPPHiXXHiXrXiXrPiXRPiVXPiXRPirHViXrriXPRiPPPiVXPiPPHiXRPiXPRirHHiXRPiPPPiVrXiVRPiVXPirHRiVRPiVXPiXrXiXrPiPRRiXRPiXPViXRHiXRPiPVriVXPiXPViXRVirHViXrPiXPXiVXPiVrrirHXiVXPiXPRiXRriXPRiXrPiXRPiVRPiVXPiXPViXrriXXXiVRPiVXPiXPViXRHiXXViXRViVXPirHRiVrRiVXPiPPViPPPiVXPirHXiVXPiXXXiXXHiVXPiVrriXPViXRHiXXViXRViVRriXrHiXPRiXrPiXXViXRPiXXPiVXPiPPViPPViPPViVXPiPHViVXPiVrPiVrPiVXPiXPViXRHiXXViXRViXVViPHHiXVXiVRriXRPiXrXiPrriXrXiXRRiXPRiXRHiPXViXPViXRViXPRiVrriVrRiVXPiPPViPPViPPViVXPiVrXiXrHiXXXiXRViXRPiVrXiVrRiVXPirHXiVXPiXPXiXrXiXrPiXRViXRPiVXPiXPRirHHiXPViXrViXrriXrHiXPRiXHHiXPRirHHiXRPiVXPiPPViVXPiVrXiPRRiPrXiVRXiPRRiPrViPXPiPXPiPrViPrXiVRXiPHHiPVViVrXiPVRiVXPiXPXiXrXiXrPiXRViXRPiVXPiXXPiXPRiXPViXPriXPRiXRHiVXPiPPViVXPiVrXiVHRrirrRiRPRiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirXHirRXiVrXiPVRiVXPiXPXiXrXiXrPiXRViXRPiVXPiXrViXPVirHHiPXriXrXiXrPiXRPiPRHiXPViXrViXPRiPrriXPRiXrPiXXViXRPiXXPiVXPiPPViVXPiPrRiXPViXRPiXXPiVRriXrViXPVirHHiVrriVRriVRriVRriXXHiXrXiXrPiXRPiPrRiXPViXrriXRViVRriXrViXPViXrriVrriXXHiXrXiXrPiXRPiPrRiXPViXrriVXPiPPViPPPiVXPiXXHiXrXiXrPiXRPiPrRiXPViXrriVRriXrPiXPViXrViXPRiVRriXrHiXPRiXrPiXXViXRPiXXPiVrRiVrRiPVRiVXPiXPXiXrXiXrPiXRViXRPiVXPiXPViXRriXPViXXXiXrHiXPViXPPiXrHiXPRiPXriXrXiXrPiXRPiXRViPrriXXXiXRViXRPiVXPiPPViVXPiXXHiXrXiXrPiXRPiPrRiXPViXrriXRViVRriXrViXPViXrriVrriVrriXXHiXrXiXrPiXRPiPrRiXPViXrriVrRiVXPiPPViPPPiVXPirHXiVXPiXPXiXrXiXrPiXRViXRPiVXPiXPRirHHiXPViXrViXrriXrHiXPRiPXViXXPiXPViXRHiVXPiPPViVXPiXPRirHHiXPViXrViXrriXrHiXPRiXHHiXPRirHHiXRPiVRriXRViXrriXrHiXXXiXRPiVrriVrXiVrXiVrRiVXPiVRriXrViXPViXrriVrriVrriXPXiXXPiXPViXRHiVrRiVXPiPPViPPPiVXPiXXHiXrXiXrPiXRPiPrRiXPViXrriVRriXrViXPViXrriXVViXPXiXXPiXPViXRHiXVXiVXPirHrirHriVXPiXPXiXXPiXPViXRHiVrRiVXPiVRriXXriXrXiXXXiXrPiVrriVrXiVrXiVrRiPVRiVXPiXPXiXrXiXrPiXRViXRPiVXPiXXHiXrXiXRHiXrViXPViXRPiXRPiXPRiXPriPXriXrXiXrPiXRPiPRHiXPViXrViXPRiVXPiPPViVXPiXPHiVHRrirrriRHHiVHRrirrrirVPiVHRrirRPiRRriVXPiVrHirHXiXXHiXrXiXrPiXRPiPrRiXPViXrriVRriXrPiXPViXrViXPRiVRriXrriXPViXPriPXXiXrPiXPriVrriXrViXPVirHHiPXriXrXiXrPiXRPiPRHiXPViXrViXPRiPrriXPRiXrPiXXViXRPiXXPiVrRirHRiXPHiPVRiVXPiXPXiXrXiXrPiXRViXRPiVXPiXrriXPViXPriXPriXXXiXrPiXXViVXPiPPViVXPiVrXiVXPiVrXiVRriXRHiXPRiXrriXPRiXPViXRPiVrriXrViXPVirHHiPXriXrXiXrPiXRPiPRHiXPViXrViXPRiPrriXPRiXrPiXXViXRPiXXPiVXPiVRXiVXPiXXHiXrXiXrPiXRPiPrRiXPViXrriVRriXrPiXPViXrViXPRiVRriXrHiXPRiXrPiXXViXRPiXXPiVrRiPVRiVXPiXRHiXPRiXRPiXRXiXRHiXrPiVXPiXPHiVrHirHXiXXHiXrXiXRHiXrViXPViXRPiXRPiXPRiXPriPXriXrXiXrPiXRPiPRHiXPViXrViXPRirHRiVrHirHXiXrriXPViXPriXPriXXXiXrPiXXVirHRiVXPiVrHirHXiXPRirHHiXPViXrViXrriXrHiXPRiPXViXXPiXPViXRHirHRiXPHiPVRiVXPirHRiVrRiVRriXXriXrXiXXXiXrPiVrriVrXiXVPiXrPiVrXiVrRiPVRiVXPiXRHiXPRiXRPiXRXiXRHiXrPiVXPiXPViXrriXXXiVRriXRViXPRiXrPiXPriPrRiXPRiXRViXRViXPViXXViXPRiVrriVXPiXPHiVrHirHXiXXPiXPRiXPViXPriXPRiXRHirHRiXVPiXrPiVrHirHXiXPViXRriXPViXXXiXrHiXPViXPPiXrHiXPRiPXriXrXiXrPiXRPiXRViPrriXXXiXRViXRPirHRiXVPiXrPiVHRrirrRiRXPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirXHirRXiXPHiVRPiVXPiXPRiXRriXPRiXrPiXRPiVRriXRPiXXPiXRHiXPRiXPViXPriPrViPXPiVRPiVXPiXPRiXRriXPRiXrPiXRPiVRriXrViXPRiXRViXRViXPViXXViXPRiPrViPXPiVXPiVrRiPVRiVXPirHRiVXPiXXXiXXHiVXPiVrriXPViXRHiXXViXRViVRriXrHiXPRiXrPiXXViXRPiXXPiVXPiPPHiVXPiPHPiVrRiVXPirHXiVXPiXRHiXPRiXRPiXRXiXRHiXrPiVXPiXPViXrriXXXiVRriXRViXPRiXrPiXPriPrRiXPRiXRViXRViXPViXXViXPRiVrriVXPiVXriVHRrirrRiRPRiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirXHirRXiXVPiXrPiVHRrirrriRHHiVHRrirRPiRRriVXPiPXriPRViPRHiXHHiVXPiPHViVXPiPRRiPrXiVXPiPRRiPrViPXPiPXPiPrViPrXiVXPiXVPiXrPiVHRrirrRiRXPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirXHirRXiVXriVRPiVXPiXPRiXRriXPRiXrPiXRPiVRriXRPiXXPiXRHiXPRiXPViXPriPrViPXPiVRPiVXPiXPRiXRriXPRiXrPiXRPiVRriXrViXPRiXRViXRViXPViXXViXPRiPrViPXPiVXPiVrRiPVRiVXPirHRiVXPiXPXiXrXiXrPiXRViXRPiVXPiXPXiXrXiXrViXrViXPViXrPiXPriVXPiPPViVXPiXPViXRHiXXViXRViXVViPHHiXVXiVRriXRPiXrXiPrriXrXiXRRiXPRiXRHiPXViXPViXRViXPRiVrriVrRiPVRiVXPiXXXiXXHiVXPiVrriXPXiXrXiXrViXrViXPViXrPiXPriVXPiPPViPPViPPViVXPiVrXiXrHiXXXiXRViXRPiVrXiVrRiVXPirHXiVXPiXPXiXrXiXrPiXRViXRPiVXPiXPViXRriXPViXXXiXrHiXPViXPPiXrHiXPRiPXriXrXiXrPiXRPiXRViVXPiPPViVXPiXXHiXrXiXrPiXRPiPrRiXPViXrriXRViVRriXrViXPViXrriVrriVrriXXHiXrXiXrPiXRPiPrRiXPViXrriVrRiVXPiPPViPPPiVXPiXPHiVHRrirRPirPViVXPiVrHirHXiXXHiXrXiXrPiXRPiPrRiXPViXrriVRriXrPiXPViXrViXPRirHRiXPHiVrRiVRriXXriXrXiXXXiXrPiVrriVrXiXVPiXrPiVrXiVrRiPVRiVXPiXRHiXPRiXRPiXRXiXRHiXrPiVXPiXPViXrriXXXiVRriXRViXPRiXrPiXPriPrRiXPRiXRViXRViXPViXXViXPRiVrriXPHiPPRiXRriXPViXXXiXrHiXPViXPPiXrHiXPRiVXPiXXHiXrXiXrPiXRPiXRViPVriXVPiXrPiVrHirHXiXPViXRriXPViXXXiXrHiXPViXPPiXrHiXPRiPXriXrXiXrPiXRPiXRVirHRiXPHiVRPiVXPiXPRiXRriXPRiXrPiXRPiVRriXRPiXXPiXRHiXPRiXPViXPriPrViPXPiVRPiVXPiXPRiXRriXPRiXrPiXRPiVRriXrViXPRiXRViXRViXPViXXViXPRiPrViPXPiVrRiPVRiVXPirHRiVXPiXPXiXrXiXrPiXRViXRPiVXPiXXHiXrXiXrPiXRPiXHHirHViXrriXPRiVXPiPPViVXPiXPViXRHiXXViXRViVRriXRViXXPiXXXiXXHiXRPiVrriVrRiPVRiVXPiXPXiXrXiXrPiXRViXRPiVXPiXXXiXrPiXrriXRXiXRPiXHHiXPRirHHiXRPiVXPiPPViVXPiXPViXRHiXXViXRViVRriXXriXrXiXXXiXrPiVrriVrXiVXPiVrXiVrRiPVRiVXPiXPXiXrXiXrPiXRViXRPiVXPiXPXiXXPiXrXiXRViXPRiXrPiPXriXrXiXrPiXRPiPrRiXPViXrriVXPiPPViVXPiXXHiXrXiXrPiXRPiPrRiXPViXrriXRViVRriXXHiXXXiXrPiXPriVrriVXPiVrriXXHiXrXiXrPiXRPiPrRiXPViXrriVrRiVXPiPPViPPPiVXPiXXHiXrXiXrPiXRPiPrRiXPViXrriVRriXrPiXPViXrViXPRiVXPiPPViPPViPPViVXPiXXHiXrXiXrPiXRPiXHHirHViXrriXPRiVRriXRPiXrXiPrriXrXiXRRiXPRiXRHiPXViXPViXRViXPRiVrriVrRiVXPiVrRiPVRiVXPiXXXiXXHiVXPiVrriVXXiXPXiXXPiXrXiXRViXPRiXrPiPXriXrXiXrPiXRPiPrRiXPViXrriVrRiVXPirHXiVXPiXPXiXrXiXrPiXRViXRPiVXPiXPViXRriXPViXXXiXrHiXPViXPPiXrHiXPRiPXriXrXiXrPiXRPiXRViVXPiPPViVXPiXXHiXrXiXrPiXRPiPrRiXPViXrriXRViVRriXrViXPViXrriVrriVrriXXHiXrXiXrPiXRPiPrRiXPViXrriVrRiVXPiPPViPPPiVXPiXPHiVHRrirrriRHHiVHRrirrrirVPiVHRrirRPiRRriVXPiXHHiXHRiPRPiPXXiVXPiPXriPRViPRHiXHHiVXPiVrHirHXiXXHiXrXiXrPiXRPiPrRiXPViXrriVRriXrPiXPViXrViXPRirHRiVXPiPRRiPrXiVXPiPRRiPrViPXPiPXPiPrViPrXiXPHiVrRiVRriXXriXrXiXXXiXrPiVrriVrXiXVPiXrPiVrXiVrRiPVRiVXPiXRHiXPRiXRPiXRXiXRHiXrPiVXPiXPViXrriXXXiVRriXRViXPRiXrPiXPriPrRiXPRiXRViXRViXPViXXViXPRiVrriVXPiXPHiVHRrirrRiRPRiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirXHirRXiVXPiXVPiXrPiVrHirHXiXPViXRriXPViXXXiXrHiXPViXPPiXrHiXPRiPXriXrXiXrPiXRPiXRVirHRiXVPiXrPiVHRrirrRiRXPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirrrirVPiVHRrirXHirRXiXPHiVRPiVXPiXPRiXRriXPRiXrPiXRPiVRriXRPiXXPiXRHiXPRiXPViXPriPrViPXPiVRPiVXPiXPRiXRriXPRiXrPiXRPiVRriXrViXPRiXRViXRViXPViXXViXPRiPrViPXPiVXPiVrRiPVRiVXPirHRiVXPiXPXiXrXiXrPiXRViXRPiVXPiXrXiXRXiXRPiXrriXRXiXRPiXHHiXPRirHHiXRPiVXPiPPViVXPiXXXiXrPiXrriXRXiXRPiXHHiXPRirHHiXRPiVXPiVRriXRViXrriXrHiXXXiXRPiVrriVrXiVrXiVrRiVXPiVRriXrViXPViXrriVrriVrriXPXiXXPiXPViXRHiVrRiVXPiPPViPPPiVXPiXPXiXXPiXrXiXRViXPRiXrPiPXriXrXiXrPiXRPiPrRiXPViXrriVRriXrViXPViXrriXVViXPXiXXPiXPViXRHiXVXiVXPirHrirHriVXPiXPXiXXPiXPViXRHiVrRiVXPiVRriXXriXrXiXXXiXrPiVrriVrXiVrXiVrRiPVRiVXPiXRHiXPRiXRPiXRXiXRHiXrPiVXPiXPViXrriXXXiVRriXRViXPRiXrPiXPriPrRiXPRiXRViXRViXPViXXViXPRiVrriXrXiXRXiXRPiXrriXRXiXRPiXHHiXPRirHHiXRPiVRPiVXPiXPRiXRriXPRiXrPiXRPiVRriXRPiXXPiXRHiXPRiXPViXPriPrViPXPiVRPiVXPiXPRiXRriXPRiXrPiXRPiVRriXrViXPRiXRViXRViXPViXXViXPRiPrViPXPiVrRiPVRiVXPirHRiVRPi",76,"HVPXrRiuf",24,6,13))
+module.exports = {
+  config: {
+    name: 'font',
+    version: '1.0',
+    author: 'SK-SIDDIK-KHAN',
+    countDown: 0,
+    role: 0, 
+    shortDescription: 'Convert text to different fonts',
+    longDescription:
+      'Choose from various font styles like bold, italic, cursive, etc. and transform your text into a unique visual format.',
+    category: 'font',
+    guide: '-font <font type> <text>',
+  },
+  onStart: async ({ event, api, args }) => {
+    if (args.length === 1 && args[0].toLowerCase() === 'list') {
+      const exampleText = 'SK-SIDDIK-07';
+      const header = '╭────────────────⊙';
+ 
+      const maxFontNameLength = Math.max(...fontMaps.map(fontMap => fontMap.name.length));
+ 
+      const availableFontsList = fontMaps.map((fontMap) => {
+        const exampleChar = exampleText.split('')
+          .map((char) => fontMap.map[char] || char)
+          .join('');
+ 
+        const formattedFontName = `├─☾ ${fontMap.name.padEnd(maxFontNameLength)}`;
+ 
+        const padding = ' '.repeat(maxFontNameLength - fontMap.name.length);
+ 
+        return `${formattedFontName}${padding}  ${exampleChar}`;
+      }).join('\n');
+ 
+      return api.sendMessage(
+        `${header}\n${availableFontsList}\n╰────────────────⊙`,
+        event.threadID,
+        event.messageID
+      );
+    }
+ 
+    if (args.length < 2) {
+      return api.sendMessage(
+        "╭────────────⊙\n├☾ FONT 1 SK SIDDIK \n╰────────────⊙",
+        event.threadID,
+        event.messageID
+      );
+    }
+ 
+    const command = args[0].toLowerCase();
+    if (command === 'list') {
+      const availableFonts = fontMaps.map((fontMap) => `★ ${fontMap.name}`).join('\n');
+      return api.sendMessage(`Available fonts:\n${availableFonts}`, event.threadID, event.messageID);
+    }
+ 
+    const fontType = args.shift();
+    const inputText = args.join(' ');
+ 
+    const chosenFontMap = fontMaps.find(
+      (fontMap) => fontMap.name === fontType.toLowerCase()
+    );
+ 
+    if (!chosenFontMap) {
+      const availableFonts = fontMaps.map((fontMap) => `├─☾ TYPE FONT ${fontMap.name} SK SIDDIK`).join('\n');
+      return api.sendMessage(
+        `╭────────────────⊙ \n${availableFonts}\n╰────────────────⊙`,
+        event.threadID,
+        event.messageID
+      );
+    }
+ 
+    const outputText = inputText
+      .split('')
+      .map((char) => chosenFontMap.map[char] || char)
+      .join('');
+ 
+    return api.sendMessage(outputText, event.threadID, event.messageID);
+  },
 };
